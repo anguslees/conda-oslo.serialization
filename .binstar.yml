@@ -1,0 +1,4 @@
+package: oslo.serialization
+script:
+  - conda build .
+build_targets: conda
